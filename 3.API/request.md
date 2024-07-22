@@ -1,0 +1,1 @@
+https://dictionary.yandex.net/api/v1/dicservice/lookup?key=dict.1.1.20240622T083752Z.0757ce1234f2a14f.b6616a3c9330c5dba83bbc9cdfb096a1c2df4586&lang=en-ru&text=sky&ui=ru
